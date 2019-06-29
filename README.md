@@ -1,2 +1,2 @@
 # TipCalculator
-Data analytics boot camp coding-challenge-22019
+Data analytics boot camp coding-challenge-2019
